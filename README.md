@@ -1,3 +1,17 @@
+# Soulera
+
+To run the project, follow these steps:
+
+```bash
+git clone https://github.com/soyuz-soyuz/soulera.git
+cd soulera
+npm install
+npm run dev
+```
+
+This will start the development server, and you can access the application at `http://localhost:3000`
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
