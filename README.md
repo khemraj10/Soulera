@@ -3,7 +3,7 @@
 To run the project, follow these steps:
 
 ```bash
-git clone https://github.com/soyuz-soyuz/soulera.git
+git clone github_repo_link
 cd soulera
 npm install
 npm run dev
